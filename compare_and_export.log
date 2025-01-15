@@ -1,0 +1,121 @@
+2024-09-16 07:32:11,580 - INFO - Export file uploaded: D:/MicrosoftHub/Onenote/tool/export.xlsx
+2024-09-16 07:32:14,442 - INFO - Compare file uploaded: D:/MicrosoftHub/Onenote/tool/onenote vulnerablity.xlsx
+2024-09-16 07:32:18,940 - INFO - Output folder selected: D:/MicrosoftHub/Onenote/tool
+2024-09-16 07:32:18,940 - INFO - Starting comparison process.
+2024-09-16 07:32:18,940 - INFO - Reading export file.
+2024-09-16 07:32:33,339 - INFO - Export file loaded successfully.
+2024-09-16 07:32:33,339 - INFO - Reading compare file.
+2024-09-16 07:32:33,396 - INFO - Compare file loaded successfully.
+2024-09-16 07:32:33,396 - INFO - Normalizing device names.
+2024-09-16 07:32:33,454 - INFO - Analyzing last sign-in dates.
+2024-09-16 07:32:33,557 - INFO - Removing duplicate device names, keeping the most recent.
+2024-09-16 07:32:33,623 - INFO - Searching for matching devices.
+2024-09-16 07:32:33,638 - INFO - Writing results to D:/MicrosoftHub/Onenote/tool\output.xlsx.
+2024-09-16 07:32:33,897 - INFO - Comparison completed successfully.
+2024-09-16 14:43:47,248 - INFO - Export file uploaded: 
+2024-09-16 14:46:57,563 - INFO - Export file uploaded: D:/TaskAug/exportDevice_2024-9-16.xlsx
+2024-09-16 14:47:00,204 - INFO - Compare file uploaded: D:/TaskAug/Paint3D.xlsx
+2024-09-16 14:47:03,359 - INFO - Output folder selected: D:/TaskAug
+2024-09-16 14:47:03,360 - INFO - Starting comparison process.
+2024-09-16 14:47:03,360 - INFO - Reading export file.
+2024-09-16 14:47:18,624 - INFO - Export file loaded successfully.
+2024-09-16 14:47:18,624 - INFO - Reading compare file.
+2024-09-16 14:47:18,692 - INFO - Compare file loaded successfully.
+2024-09-16 14:47:18,692 - INFO - Normalizing device names.
+2024-09-16 14:47:18,795 - INFO - Analyzing last sign-in dates.
+2024-09-16 14:47:18,923 - INFO - Removing duplicate device names, keeping the most recent.
+2024-09-16 14:47:18,991 - INFO - Searching for matching devices.
+2024-09-16 14:47:19,008 - INFO - Writing results to D:/TaskAug\output.xlsx.
+2024-09-16 14:47:19,319 - INFO - Comparison completed successfully.
+2024-09-29 10:16:56,516 - INFO - Export file uploaded: D:/TaskAug/exportDevice_2024-9-16.xlsx
+2024-09-29 10:16:59,327 - INFO - Compare file uploaded: D:/TaskAug/Paint3D.xlsx
+2024-09-29 10:17:27,890 - INFO - Output folder selected: D:/TaskAug/vasu
+2024-09-29 10:17:27,890 - INFO - Starting comparison process.
+2024-09-29 10:17:27,890 - INFO - Reading export file.
+2024-09-29 10:17:47,417 - INFO - Export file loaded successfully.
+2024-09-29 10:17:47,417 - INFO - Reading compare file.
+2024-09-29 10:17:47,497 - INFO - Compare file loaded successfully.
+2024-09-29 10:17:47,497 - INFO - Normalizing device names.
+2024-09-29 10:17:47,589 - INFO - Analyzing last sign-in dates.
+2024-09-29 10:17:47,721 - INFO - Removing duplicate device names, keeping the most recent.
+2024-09-29 10:17:47,798 - INFO - Searching for matching devices.
+2024-09-29 10:17:47,822 - INFO - Writing results to D:/TaskAug/vasu\output.xlsx.
+2024-09-29 10:17:48,108 - INFO - Comparison completed successfully.
+2024-09-30 07:39:44,722 - INFO - Export file uploaded: D:/TaskAug/exportDevice_2024-9-16.xlsx
+2024-09-30 07:39:49,506 - INFO - Compare file uploaded: D:/TaskAug/Paint3D.xlsx
+2024-09-30 07:40:03,924 - INFO - Output folder selected: D:/TaskAug/hhh
+2024-09-30 07:40:03,924 - INFO - Starting comparison process.
+2024-09-30 07:40:03,924 - INFO - Reading export file.
+2024-09-30 07:40:17,545 - INFO - Export file loaded successfully.
+2024-09-30 07:40:17,545 - INFO - Reading compare file.
+2024-09-30 07:40:17,603 - INFO - Compare file loaded successfully.
+2024-09-30 07:40:17,603 - INFO - Normalizing device names.
+2024-09-30 07:40:17,664 - INFO - Analyzing last sign-in dates.
+2024-09-30 07:40:17,748 - INFO - Removing duplicate device names, keeping the most recent.
+2024-09-30 07:40:17,798 - INFO - Searching for matching devices.
+2024-09-30 07:40:17,809 - INFO - Writing results to D:/TaskAug/hhh\output.xlsx.
+2024-09-30 07:40:18,020 - INFO - Comparison completed successfully.
+2024-12-04 11:33:44,559 - INFO - Export file uploaded: 
+2024-12-04 11:34:51,970 - INFO - Export file uploaded: D:/exportDevice_2024-12-4.xlsx
+2024-12-04 11:34:56,751 - INFO - Compare file uploaded: C:/Users/t-o.mahat/Downloads/Discord app devices report.xlsx
+2024-12-04 11:35:04,062 - INFO - Output folder selected: D:/
+2024-12-04 11:35:04,064 - INFO - Starting comparison process.
+2024-12-04 11:35:04,065 - INFO - Reading export file.
+2024-12-04 11:35:21,789 - INFO - Export file loaded successfully.
+2024-12-04 11:35:21,789 - INFO - Reading compare file.
+2024-12-04 11:35:21,825 - INFO - Compare file loaded successfully.
+2024-12-04 11:35:21,825 - INFO - Normalizing device names.
+2024-12-04 11:35:21,887 - INFO - Analyzing last sign-in dates.
+2024-12-04 11:35:21,954 - INFO - Removing duplicate device names, keeping the most recent.
+2024-12-04 11:35:21,997 - INFO - Searching for matching devices.
+2024-12-04 11:35:22,008 - INFO - Writing results to D:/output.xlsx.
+2024-12-04 11:35:22,102 - INFO - Comparison completed successfully.
+2024-12-15 10:23:01,927 - INFO - Compare file uploaded: D:/Tasks/Discord app devices report.xlsx
+2024-12-15 10:23:08,039 - INFO - Output folder selected: D:/Tasks
+2024-12-15 10:23:08,039 - INFO - Starting comparison process.
+2024-12-15 10:23:08,039 - INFO - Reading export file.
+2024-12-15 10:23:26,184 - INFO - Export file loaded successfully.
+2024-12-15 10:23:26,184 - INFO - Reading compare file.
+2024-12-15 10:23:26,247 - INFO - Compare file loaded successfully.
+2024-12-15 10:23:26,247 - INFO - Normalizing device names.
+2024-12-15 10:23:26,310 - ERROR - An error occurred: 'DeviceName'
+2024-12-15 10:24:10,815 - INFO - Compare file uploaded: D:/Tasks/Discord app devices report.xlsx
+2024-12-15 10:24:14,929 - INFO - Output folder selected: D:/Tasks
+2024-12-15 10:24:14,929 - INFO - Starting comparison process.
+2024-12-15 10:24:14,929 - INFO - Reading export file.
+2024-12-15 10:24:32,211 - INFO - Export file loaded successfully.
+2024-12-15 10:24:32,211 - INFO - Reading compare file.
+2024-12-15 10:24:32,240 - INFO - Compare file loaded successfully.
+2024-12-15 10:24:32,240 - INFO - Normalizing device names.
+2024-12-15 10:24:32,287 - INFO - Analyzing last sign-in dates.
+2024-12-15 10:24:32,350 - INFO - Removing duplicate device names, keeping the most recent.
+2024-12-15 10:24:32,397 - INFO - Searching for matching devices.
+2024-12-15 10:24:32,413 - INFO - Writing results to D:/Tasks\output.xlsx.
+2024-12-15 10:24:32,538 - INFO - Comparison completed successfully.
+2024-12-15 11:18:16,122 - INFO - Compare file uploaded: D:/Tasks/Brave/Bravebrowser.xlsx
+2024-12-15 11:18:19,122 - INFO - Output folder selected: D:/Tasks/Brave
+2024-12-15 11:18:19,122 - INFO - Starting comparison process.
+2024-12-15 11:18:19,122 - INFO - Reading export file.
+2024-12-15 11:18:36,998 - INFO - Export file loaded successfully.
+2024-12-15 11:18:36,998 - INFO - Reading compare file.
+2024-12-15 11:18:37,083 - INFO - Compare file loaded successfully.
+2024-12-15 11:18:37,083 - INFO - Normalizing device names.
+2024-12-15 11:18:37,146 - INFO - Analyzing last sign-in dates.
+2024-12-15 11:18:37,188 - INFO - Removing duplicate device names, keeping the most recent.
+2024-12-15 11:18:37,236 - INFO - Searching for matching devices.
+2024-12-15 11:18:37,236 - INFO - Writing results to D:/Tasks/Brave\output.xlsx.
+2024-12-15 11:18:37,285 - INFO - Comparison completed successfully.
+2024-12-25 13:47:31,628 - INFO - Export file uploaded: D:/exportDevice_2024-12-4.xlsx
+2024-12-25 13:47:40,746 - INFO - Compare file uploaded: D:/Tasks/Bit/MOE Consultant.xlsx
+2024-12-25 13:47:48,331 - INFO - Output folder selected: D:/Tasks/Bit
+2024-12-25 13:47:48,331 - INFO - Starting comparison process.
+2024-12-25 13:47:48,331 - INFO - Reading export file.
+2024-12-25 13:48:00,430 - INFO - Export file loaded successfully.
+2024-12-25 13:48:00,430 - INFO - Reading compare file.
+2024-12-25 13:48:00,477 - INFO - Compare file loaded successfully.
+2024-12-25 13:48:00,477 - INFO - Normalizing device names.
+2024-12-25 13:48:00,524 - INFO - Analyzing last sign-in dates.
+2024-12-25 13:48:00,571 - INFO - Removing duplicate device names, keeping the most recent.
+2024-12-25 13:48:00,619 - INFO - Searching for matching devices.
+2024-12-25 13:48:00,619 - INFO - Writing results to D:/Tasks/Bit\output.xlsx.
+2024-12-25 13:48:00,697 - INFO - Comparison completed successfully.

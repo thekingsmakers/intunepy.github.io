@@ -3,54 +3,78 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Victory Celebration</title>
+    <title>Omar's Victory</title>
     <style>
         body {
-            font-family: Arial, sans-serif;
             margin: 0;
             padding: 0;
-            background: linear-gradient(135deg, #4caf50, #2196f3);
+            font-family: 'Arial', sans-serif;
+            background: linear-gradient(120deg, #1e3c72, #2a5298, #0f2027);
             color: white;
+            text-align: center;
             display: flex;
             justify-content: center;
             align-items: center;
             height: 100vh;
-            text-align: center;
         }
         .container {
-            box-shadow: 0 4px 15px rgba(0, 0, 0, 0.2);
-            background: rgba(0, 0, 0, 0.6);
-            padding: 30px 50px;
+            max-width: 800px;
+            padding: 30px;
+            background: rgba(0, 0, 0, 0.8);
             border-radius: 15px;
+            box-shadow: 0 10px 20px rgba(0, 0, 0, 0.5);
         }
         h1 {
-            font-size: 3rem;
-            margin-bottom: 10px;
+            font-size: 3.5rem;
+            margin: 0;
+            color: #ffd700; /* Gold color for the champ */
             text-transform: uppercase;
-            background: linear-gradient(90deg, #ff9800, #ff5722);
-            -webkit-background-clip: text;
-            color: transparent;
+            text-shadow: 3px 3px 5px rgba(0, 0, 0, 0.5);
         }
         h2 {
-            font-size: 1.5rem;
-            margin-top: 5px;
+            font-size: 2rem;
+            margin: 10px 0;
             font-style: italic;
+            color: #ffa500;
         }
-        .champ {
+        .score {
+            font-size: 4rem;
+            font-weight: bold;
+            margin: 15px 0;
+            color: #00ff00; /* Bright green for emphasis */
+        }
+        .subtitle {
+            font-size: 1.5rem;
+            margin: 10px 0 30px;
+            font-style: italic;
+            color: #ff6347; /* Tomato red for emphasis */
+        }
+        img {
+            width: 100%;
+            max-width: 300px;
+            margin: 20px auto;
+            border-radius: 15px;
+            box-shadow: 0 5px 15px rgba(0, 0, 0, 0.5);
+        }
+        .footer {
             font-size: 1.2rem;
             margin-top: 20px;
-            padding: 10px 20px;
-            border: 2px solid #ff5722;
+            background: #ff4500;
+            color: white;
+            padding: 10px 15px;
             border-radius: 10px;
-            background: rgba(255, 87, 34, 0.2);
+            display: inline-block;
         }
     </style>
 </head>
 <body>
     <div class="container">
-        <h1>Omar Beats Raihan 7 Times</h1>
-        <h2>The champ is here!</h2>
-        <div class="champ">Mr. Omar Osman Mahat</div>
+        <h1>Omar Beats Raihan</h1>
+        <h2>Once Beaten, Twice Shy</h2>
+        <div class="score">7 - 0</div>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/John_Cena_2008.jpg" alt="John Cena saying You Can't See Me">
+        <div class="subtitle">"You can't see me, my time is now!"</div>
+        <div class="footer">The Champ: Mr. Omar Osman Mahat</div>
     </div>
 </body>
 </html>
